@@ -5,7 +5,7 @@ sourceCompatibility = 1.8
 mainClassName = 'se.solrike.JerseyApplication'
 
 ext {
-    slf4jVersion = '1.7.25'
+    slf4jVersion = '1.7.29'
     jettyVersion = '9.4.6.v20170531'
     jerseyVersion = '2.26'
 }
